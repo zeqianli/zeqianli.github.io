@@ -12,30 +12,35 @@ redirect_from:
 Education
 ======
 * Ph.D in Physics, University of Illinois in Urbana Champaign, 2018 - current
+  * Center for Physics of Living Cells (CPLC) fellow, 2018 - current
 * B.S in Physics, Hong Kong Baptist University, 2014 - 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Unversity of Illinois at Urbana Champaign, Fall 2018 - current
+  * Center for Physics of Living Cells (CPLC) fellow
+  * I'm doing lab rotations in CPLC. 
+* Hong Kong Baptist University, 2015 - 2018
+  * I worked with Prof. Changsong Zhou in my undergraduate. I did projects in reservoir computing, C. elegans neural network, and  C. elegans embryonic development. See research page for details.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Teaching Experience
+=====
+* Fall 2017 - Spring 2018
+  * Hong Kong Baptist University
+  * Taught discussion classes for the introductory physics course.
+
+Programing
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab
+* C
+* Java
+* Latex (beamer,tikz)
 
-Publications
+Languages
+=====
+* English, Chinese (Mandarin, Cantonese)
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -55,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
