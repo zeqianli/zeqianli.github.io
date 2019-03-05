@@ -11,7 +11,7 @@ title                    : "Zeqian Li"
 title_separator          : "-"
 name                     : &name "Zeqian Li"
 description              : &description "Zeqian Li's personal site. This site is under construction."
-url                      : https://zeqianli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zeqianli.github.io" # local: "http://127.0.0.1:4000"; publish: "https://zeqianli.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zeqianli/zeqianli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zeqian Li"
   avatar           : "lzqmatic_sqr.jpg"
-  bio              : "PhD in Physics student, University of Illinois in Urbana-Champaign"
-  location         : "Urbana, IL"
+  bio              : "Ph.D in Physics student, University of Illinois at Urbana-Champaign"
+  location         : 
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"

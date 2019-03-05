@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,36 +8,43 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- (PDF version: TODO) -->
+
 Education
-======
-* Ph.D in Physics, University of Illinois in Urbana Champaign, 2018 - current
-  * Center for Physics of Living Cells (CPLC) fellow, 2018 - current
-* B.S in Physics, Hong Kong Baptist University, 2014 - 2018
-
-Research experience
-======
-* Unversity of Illinois at Urbana Champaign, Fall 2018 - current
+-----
+* Ph.D in Physics, University of Illinois in Urbana-Champaign, 2018 - current
   * Center for Physics of Living Cells (CPLC) fellow
-  * I'm doing lab rotations in CPLC. 
+
+* B.S in Physics, Hong Kong Baptist University, 2014 - 2018
+  * Scholastic Award, President's Honor Roll, HKSAR Government Scholarship
+
+Research 
+-----
+* Unversity of Illinois at Urbana-Champaign, 2018 - current
+  * I'm doing lab rotations in the Center for Physics of Living Cells (CPLC). 
+  
 * Hong Kong Baptist University, 2015 - 2018
-  * I worked with Prof. Changsong Zhou in my undergraduate. I did projects in reservoir computing, C. elegans neural network, and  C. elegans embryonic development. See research page for details.
+  * I worked with Prof. Changsong Zhou in my undergraduate. I did projects in reservoir computing, c. elegans neural network, and  c. elegans embryonic development. 
 
-Teaching Experience
-=====
-* Fall 2017 - Spring 2018
-  * Hong Kong Baptist University
-  * Taught discussion classes for the introductory physics course.
+<!-- 
+Teaching
+-----
+* Hong Kong Baptist University
+  * I taught discussion sections for the introductory physics course for two semesters. -->
 
-Programing
-======
-* Python, Matlab
-* C
-* Java
-* Latex (beamer,tikz)
 
-Languages
-=====
-* English, Chinese (Mandarin, Cantonese)
+Additional activities
+-----
+* Spring College on the Physics of Complex Systems, The Abdus Salam International Centre for Theoretical Physics (ICTP), Mar 2018
+
+  <!-- * I took five courses: Nonequilibrium behavior of quantum statistical systems (Maurizio Fagotti); Statistics of extremes in correlated systems (Gregory Schehr); Hierarchical Inference (Chris Mathys); Reinforcement Learning (Antonio Celani); Polymer Physics of Chromosome Folding (Angelo Rosa, Mario Nicodemi)
+  * Grade: E (Excellent)  -->
+
+
+Skills
+-----
+* Python, Matlab; C; Java; Latex (beamer, tikz)
+* Languages: Chinese (Mandarin, Cantonese)
 
 <!-- Publications
 ======

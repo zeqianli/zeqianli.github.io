@@ -1,11 +1,11 @@
 ---
-layout: archieve
+layout: archive
 permalink: /misc/
 author_profile: true
 redirect_from: 
   - "/misc.html"
 ---
 
-Here are my research experience. 
+Misc.
 
 This page is under construction.
