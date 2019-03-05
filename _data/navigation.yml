@@ -22,8 +22,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Others"
-    url: /others/
+  - title: "Misc"
+    url: /misc/
     
   # - title: "Guide"
   #   url: /markdown/

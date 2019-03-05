@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zeqian Li"
   avatar           : "lzqmatic_sqr.jpg"
-  bio              : "Zeqian Li's personal site. This site is under construction."
+  bio              : "PhD in Physics student, University of Illinois in Urbana-Champaign"
   location         : "Urbana, IL"
-  employer         : "University of Illinois at Urbana-Champaign"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : zeqianl2@illinois.edu
