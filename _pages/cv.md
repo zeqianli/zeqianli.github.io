@@ -12,19 +12,22 @@ redirect_from:
 
 Education
 -----
-* Ph.D in Physics, University of Illinois in Urbana-Champaign, 2018 - current
-  * Center for Physics of Living Cells (CPLC) fellow
+* Ph.D in Physics, University of Illinois in Urbana-Champaign (2018 - current)
+* B.S in Physics, Hong Kong Baptist University (2014 - 2018)
 
-* B.S in Physics, Hong Kong Baptist University, 2014 - 2018
-  * Scholastic Award, President's Honor Roll, HKSAR Government Scholarship
+Awards and Honors
+-----
+* Center for Physics of Living Cells (CPLC) fellowship, UIUC (2018 - current)
+* Scholastic Award, HKBU, Hong Kong (2018)
+* HKSAR Government Scholarship, Hong Kong (2015-2018)
 
 Research 
 -----
-* Unversity of Illinois at Urbana-Champaign, 2018 - current
-  * I'm doing lab rotations in the Center for Physics of Living Cells (CPLC). 
+* Unversity of Illinois at Urbana-Champaign (2018 - current)
+  * I'm doing lab rotations in the Center for Physics of Living Cells (CPLC). I studied computational biology, neural avalanches, and closed ecosystem. 
   
-* Hong Kong Baptist University, 2015 - 2018
-  * I worked with Prof. Changsong Zhou in my undergraduate. I did projects in reservoir computing, c. elegans neural network, and  c. elegans embryonic development. 
+* Hong Kong Baptist University (2015 - 2018)
+  * I worked with Prof. Changsong Zhou in my undergraduate. I studied reservoir computing in biological neural networks, C. elegans neural network, and  C. elegans embryonic development. 
 
 <!-- 
 Teaching
@@ -35,7 +38,7 @@ Teaching
 
 Additional activities
 -----
-* Spring College on the Physics of Complex Systems, The Abdus Salam International Centre for Theoretical Physics (ICTP), Mar 2018
+* Spring College on the Physics of Complex Systems, The Abdus Salam International Centre for Theoretical Physics (ICTP) (Mar 2018)
 
   <!-- * I took five courses: Nonequilibrium behavior of quantum statistical systems (Maurizio Fagotti); Statistics of extremes in correlated systems (Gregory Schehr); Hierarchical Inference (Chris Mathys); Reinforcement Learning (Antonio Celani); Polymer Physics of Chromosome Folding (Angelo Rosa, Mario Nicodemi)
   * Grade: E (Excellent)  -->
@@ -43,7 +46,7 @@ Additional activities
 
 Skills
 -----
-* Python, Matlab; C; Java; Latex (beamer, tikz)
+* Python, Matlab, C, Java, LaTeX (beamer, tikz)
 * Languages: Chinese (Mandarin, Cantonese)
 
 <!-- Publications
