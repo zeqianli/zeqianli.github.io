@@ -25,21 +25,23 @@ A list online lectures in statistical physics, condensed matter physics, biologi
   - [2015](http://indico.ictp.it/event/a14244/) and [2014](http://indico.ictp.it/event/a13200/) weren't recorded. 
 
 * [ ] ICTS - Bangalore School on Statistical Physics 
-  - [ ] [2018](https://www.youtube.com/playlist?list=PL04QVxpjcnjj9xJA19Founo-zI_KnyPaF) [ ] [2017](https://www.youtube.com/playlist?list=PL04QVxpjcnjjaJmtvrYJV_IGj9lVwOWho) 
+  - [ ] [2018](https://www.youtube.com/playlist?list=PL04QVxpjcnjj9xJA19Founo-zI_KnyPaF)
+  - [ ] [2017](https://www.youtube.com/playlist?list=PL04QVxpjcnjjaJmtvrYJV_IGj9lVwOWho) 
   - [ICTS Youtube Channel](https://www.youtube.com/user/ICTStalks/)
 
 * [Boulder School for Condensed Matter and Materials Physics](https://boulderschool.yale.edu/)
   - [Youtube Channel](https://www.youtube.com/channel/UC37kYds7QwN8w9vPBPkdVxA)
 
 
-## Biology, biological physics##
-* [ ]  [Uri Alon - System Biology (2018)](https://www.weizmann.ac.il/mcb/UriAlon/download/systems-biology-course-2018) (Weizmann Institute of Science) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PLaXxyLwYPilvdYyOivid5OTY_Fxq5DRZV)*)
+## Biology, biological physics ##
+* [x]  [Uri Alon - System Biology (2018)](https://www.weizmann.ac.il/mcb/UriAlon/download/systems-biology-course-2018) (Weizmann Institute of Science) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PLaXxyLwYPilvdYyOivid5OTY_Fxq5DRZV)*)
 * [ ] [MIT 8.591J Jeff Gore - System Biology (2014)](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/) (MIT)
 * [ ] [MIT 6.878 Manolis Kellis - Computational Biology: Genomes, Networks, Evolution, Health (2018)](http://stellar.mit.edu/S/course/6/fa18/6.047/) (MIT) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt)*)
 
 
 ## Statistics, data analysis, machine learning ##
 * [ ] [Stanford CS231n - Convolutional Neural Networks for Visual Recognition (2017)](http://cs231n.stanford.edu/) (Stanford) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)*)
+* [ ] [Stanford CS234 - Reinforcement Learning (2019)][https://cs234.stanford.ed/] (Stanford) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)*)
 
 
 
