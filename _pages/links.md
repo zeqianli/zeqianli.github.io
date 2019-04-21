@@ -12,11 +12,11 @@ TODO
 
 ## Courses 
 
-[A list of online courses: statistical physics, biological physics, and related areas](http://zeqianli.github.io/posts/2019/03/physics-mooc/)
+[A list of online courses: statistical physics, biological physics, and more](http://zeqianli.github.io/posts/2019/03/physics-mooc/)
 
 ## Books
 
-TODO
+[Book list: statistical physics, biological physics, and more](https://zeqianli.github.io/posts/2019/04/physics-books/)
 
 ## Blogs
 

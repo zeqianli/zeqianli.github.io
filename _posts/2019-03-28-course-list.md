@@ -1,5 +1,5 @@
 ---
-title: 'A list of online courses: statistical physics, biological physics, and related areas'
+title: 'A list of online courses: statistical physics, biological physics, and more'
 date: 2019-03-28
 permalink: /posts/2019/03/physics-mooc/
 tags:
