@@ -35,9 +35,12 @@ A list of online lectures in statistical physics, condensed matter physics, biol
 * [ ] [MIT 6.878 Manolis Kellis - Computational Biology: Genomes, Networks, Evolution, Health (2018)](http://stellar.mit.edu/S/course/6/fa18/6.047/) (MIT) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt)*)
 
 
-## Statistics, data analysis, machine learning
+## Statistics, data analysis, machine learning 
 * [ ] [Stanford CS231n - Convolutional Neural Networks for Visual Recognition (2017)](http://cs231n.stanford.edu/) (Stanford) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)*)
 * [ ] [Stanford CS234 - Reinforcement Learning (2019)](https://cs234.stanford.ed/) (Stanford) (*[Youtube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)*)
+
+## Coding
+* [Algorithm courses](http://timroughgarden.org/videos.html) (Stanford)
 
 
 
