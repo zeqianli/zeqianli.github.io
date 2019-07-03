@@ -17,14 +17,14 @@ Education
 
 Awards and Honors
 -----
-* Center for Physics of Living Cells (CPLC) fellowship, UIUC (2018 - current)
+* Center for Physics of Living Cells (CPLC) Fellow, UIUC (2018 - 2020)
 * Scholastic Award, HKBU, Hong Kong (2018)
 * HKSAR Government Scholarship, Hong Kong (2015-2018)
 
 Research 
 -----
 * Unversity of Illinois at Urbana-Champaign (2018 - current)
-  * I'm doing lab rotations in the Center for Physics of Living Cells (CPLC). I studied computational biology, neural avalanches, and closed ecosystem. 
+  * I'm did lab rotations in the Center for Physics of Living Cells (CPLC). I studied computational biology, neural avalanches, and closed ecosystem. 
   
 * Hong Kong Baptist University (2015 - 2018)
   * I worked with Prof. Changsong Zhou in my undergraduate. I studied reservoir computing in biological neural networks, C. elegans neural network, and  C. elegans embryonic development. 

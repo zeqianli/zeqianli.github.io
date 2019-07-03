@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a graduate student in the [Department of Physics, University of Illinois at Urbana-Champaign](https://physics.illinois.edu/). 
 
-I'm interested in statistical physics, biological physics, and neuroscience. Currently I'm studying neural avalanches. See my research page for details.
+I'm interested in statistical physics and biological physics. Currently I'm studying closed ecosystem with [Prof. Seppe Kuehn](https://www.kuehnlab.org/). See my research page for details.
 
 My name is pronounced like "Ze-Chian Li"
 
