@@ -23,11 +23,12 @@ Awards and Honors
 
 Research 
 -----
-* Unversity of Illinois at Urbana-Champaign (2018 - current)
-  * I'm did lab rotations in the Center for Physics of Living Cells (CPLC). I studied computational biology, neural avalanches, and closed ecosystem. 
+* University of Illinois at Urbana-Champaign (2018 - current)
+  * I am studying structures and functions in Yellowstone hotspring microbial communities, working with Prof. Seppe Kuehn.
+  * As a CPLC fellow, I rotated in three biophysics labs. I studied computational biology, avalanches in biological neural networks, and closed ecosystems. 
   
 * Hong Kong Baptist University (2015 - 2018)
-  * I worked with Prof. Changsong Zhou in my undergraduate. I studied reservoir computing in biological neural networks, C. elegans neural network, and  C. elegans embryonic development. 
+  * In Prof. Changsong Zhou's lab, I studied reservoir computing in biological neural networks, C. elegans neural network, and  C. elegans embryonic development. 
 
 <!-- 
 Teaching
