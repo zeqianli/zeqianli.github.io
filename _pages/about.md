@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm a second-year graduate student in [Seppe Kuehn's lab](https://www.kuehnlab.org/) at the University of Illinois at Urbana Champaign. 
+I'm a graduate student in [Seppe Kuehn's lab](https://www.kuehnlab.org/) at the University of Chicago. 
  
-I'm interested in studying biological systems using mathematical modeling and computational tools. Currently I am studying structures and functions of Yellowstone hot spring microbial communities. Prior to UIUC, I studied statistical physics and computational neuroscience.
+I'm interested in studying microbial communities using quantitative methods. Currently I'm studying the structures and functions of Yellowstone hot spring microbial communities, the prokaryote denitrification pathway, and closed ecosystems. Prior to Kuehn lab, I studied statistical physics and computational neuroscience.
 
 My name is pronounced like "Ze-Chian Li'
 

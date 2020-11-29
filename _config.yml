@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeqian Li"
 title_separator          : "-"
 name                     : &name "Zeqian Li"
-description              : &description "Zeqian Li's personal site. This site is under construction."
+description              : &description "Zeqian Li's personal site."
 url                      : "https://zeqianli.github.io" # local: "http://127.0.0.1:4000"; publish: "https://zeqianli.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zeqianli/zeqianli.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zeqian Li"
   avatar           : "lzqmatic_sqr.jpg"
-  bio              : "Ph.D in Physics candidate, University of Illinois at Urbana-Champaign"
+  bio              : "Graduate research assistant, University of Chicago"
   location         : 
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : zeqianl2@illinois.edu
+  email            : zeqianl2@uchicago.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
