@@ -1,0 +1,5 @@
+name = "zeqianli.me"
+
+# the notion.so page to being parsing from. This page will become the index.html
+# of the generated site, and loconotion will parse all sub-pages present on the page
+page = "https://young-finch-2a4.notion.site/Zeqian-Li-website-b1654104d17447c38f5d8b4add3c839b"
