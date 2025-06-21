@@ -7,6 +7,9 @@ pub struct TemplateApp {
 
     #[serde(skip)] // This how you opt-out of serialization of a field
     value: f32,
+
+    // Sidebar state
+    sidebar_open: bool,
 }
 
 impl Default for TemplateApp {
@@ -15,6 +18,7 @@ impl Default for TemplateApp {
             // Example stuff:
             label: "Hello World!".to_owned(),
             value: 2.7,
+            sidebar_open: true,
         }
     }
 }
@@ -50,6 +54,13 @@ impl eframe::App for TemplateApp {
             // The top panel is often a good place for a menu bar:
 
             egui::menu::bar(ui, |ui| {
+                // Sidebar toggle button
+                if ui.button("☰").clicked() {
+                    self.sidebar_open = !self.sidebar_open;
+                }
+
+                ui.separator();
+
                 // NOTE: no File->Quit on web pages!
                 let is_web = cfg!(target_arch = "wasm32");
                 if !is_web {
@@ -65,9 +76,57 @@ impl eframe::App for TemplateApp {
             });
         });
 
+        // Sidebar
+        if self.sidebar_open {
+            egui::SidePanel::left("left_panel")
+                .resizable(true)
+                .default_width(200.0)
+                .width_range(150.0..=400.0)
+                .show(ctx, |ui| {
+                    ui.vertical_centered(|ui| {
+                        ui.heading("Navigation");
+                    });
+
+                    ui.separator();
+
+                    ui.vertical(|ui| {
+                        if ui.button("🏠 Home").clicked() {
+                            // Handle home navigation
+                        }
+
+                        if ui.button("👤 About").clicked() {
+                            // Handle about navigation
+                        }
+
+                        if ui.button("💼 Projects").clicked() {
+                            // Handle projects navigation
+                        }
+
+                        if ui.button("📝 Blog").clicked() {
+                            // Handle blog navigation
+                        }
+
+                        if ui.button("📧 Contact").clicked() {
+                            // Handle contact navigation
+                        }
+                    });
+
+                    ui.separator();
+
+                    ui.vertical(|ui| {
+                        ui.label("Settings");
+                        ui.checkbox(&mut self.sidebar_open, "Keep sidebar open");
+                    });
+
+                    ui.with_layout(egui::Layout::bottom_up(egui::Align::LEFT), |ui| {
+                        ui.small("Sidebar content");
+                    });
+                });
+        }
+
         egui::CentralPanel::default().show(ctx, |ui| {
             // The central panel the region left after adding TopPanel's and SidePanel's
-            ui.heading("eframe template");
+            ui.heading("Zeqian Li's website");
 
             ui.horizontal(|ui| {
                 ui.label("Write something: ");
@@ -76,10 +135,10 @@ impl eframe::App for TemplateApp {
 
             ui.add(egui::Slider::new(&mut self.value, 0.0..=10.0).text("value"));
             if ui.button("Increment").clicked() {
-                self.value += 1.0;
+                self.value += 3.0;
             }
 
-            ui.separator();
+            // ui.separator();
 
             ui.add(egui::github_link_file!(
                 "https://github.com/emilk/eframe_template/blob/main/",

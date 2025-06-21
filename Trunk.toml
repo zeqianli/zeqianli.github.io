@@ -1,2 +1,8 @@
 [build]
 filehash = false
+
+[serve]
+# Enable hot reload
+reload = true
+# Disable service worker during development
+no_autoreload = false
